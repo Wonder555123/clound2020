@@ -1,0 +1,9 @@
+server:
+  port: 8401
+spring:
+  application:
+    name: es-service
+  data:
+    elasticsearch:
+      cluster-name: my-application
+      cluster-nodes: 192.168.211.132:9300

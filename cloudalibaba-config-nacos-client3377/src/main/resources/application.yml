@@ -1,0 +1,4 @@
+spring:
+  profiles:
+    active: dev2 #表示开发环境
+#    actice: dev2
